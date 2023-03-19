@@ -35,3 +35,7 @@ All information received from [Wikipedia](https://en.wikipedia.org/wiki/Main_Pag
 ## License
 
 This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details.
+
+## Tags
+
+FlutterApp, PeriodicTableApp, ChemistryEducation, STEMeducation, InteractiveLearning, BohrModels, ChemistryClass, ChemistryStudents, PeriodicTableOfElements, ScienceApp, EducationApp, LearningMadeEasy, TeachingTools, InteractivePeriodicTable, StudentTools, EducationalApps
