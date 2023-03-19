@@ -34,4 +34,4 @@ All information received from [Wikipedia](https://en.wikipedia.org/wiki/Main_Pag
 
 ## License
 
-This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details.
