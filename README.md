@@ -15,7 +15,7 @@ The Periodic Table App is a simple and interactive tool designed to help student
 
 ## Installation
 
-1. Clone the repository using `git clone https://github.com/berkayceylan/periodic_table_app.git`
+1. Clone the repository using `git clone https://github.com/berkayceylan/periodic_table_flutter.git`
 2. Clone the repository using `cd periodic_table_app`
 3. build app using `flutter run .`
 
