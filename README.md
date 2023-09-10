@@ -13,6 +13,12 @@ The Periodic Table App is a simple and interactive tool designed to help student
 
 ![Periodic Table App](screenshots/periodic_table_1.gif)
 
+##  Release
+
+
+[![Logo](https://raw.githubusercontent.com/Volorf/Badges/62424abc4610eeb4f6a4c257d490c183c9bc49b8/Google%20Play/Google%20Play%20Badge.svg)](https://play.google.com/store/apps/details?id=com.berkayceylan.peridoic_table)
+
+
 ## Installation
 
 1. Clone the repository using `git clone https://github.com/berkayceylan/periodic_table_flutter.git`
